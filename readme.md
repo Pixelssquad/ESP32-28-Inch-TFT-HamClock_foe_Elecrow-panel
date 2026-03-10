@@ -3,6 +3,10 @@
 A **TFT-based ham radio clock & propagation dashboard** for the ESP32.  
 It shows **local and UTC time**, **HF/VHF band conditions**, **solar/geomagnetic data**, and **weather info** on a touch-enabled screen.
 
+Modified platformio.ini for Crowpanel ESP32 miner  LCD 2.8"
+![aa](https://github.com/user-attachments/assets/97358bed-9444-4c46-b4a1-b0e9536b1f3a)
+![a2222](https://github.com/user-attachments/assets/46c8c5f1-40cd-4fac-916a-125d3c74c27d)
+
 ---
 
 ## ✨ Features
